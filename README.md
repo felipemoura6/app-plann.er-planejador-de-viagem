@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O **Planejador de Viagem** é uma aplicação que permite a criação de viagens, adição de participantes com verificação por email e a organização de atividades a serem feitas durante as viagens dentro de datas especificadas. Esta aplicação foi desenvolvida para facilitar o planejamento e a coordenação de viagens em grupo.
+O **Planejador de Viagem**: aplicação que permite a criação de viagens, adição de participantes com verificação por email e a organização de atividades a serem feitas durante as viagens dentro de datas especificadas. Esta aplicação foi desenvolvida para facilitar o planejamento e a coordenação de viagens em grupo.
 
 ## Funcionalidades
 
