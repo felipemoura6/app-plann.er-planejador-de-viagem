@@ -25,17 +25,11 @@ O **Planejador de Viagem** é uma aplicação que permite a criação de viagens
 - **Prisma:** ORM para Node.js e TypeScript.
 - **NodeJS:** Ambiente de execução JavaScript no servidor.
 
-## Como Executar o Projeto
 
 ### Pré-requisitos
 
 - Node.js instalado.
 - Gerenciador de pacotes (npm ou yarn) instalado.
-- Conta no GitHub para clonar o repositório.
 
-### Passos
+### Desenvolvido durante NLW-Journey da empresa Rocketseat!
 
-1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
